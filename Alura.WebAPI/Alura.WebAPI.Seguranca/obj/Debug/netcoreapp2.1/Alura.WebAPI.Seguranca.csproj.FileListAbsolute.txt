@@ -1,0 +1,9 @@
+C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.deps.json
+C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csprojAssemblyReference.cache
+C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfoInputs.cache
+C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfo.cs
+C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csproj.CoreCompileInputs.cache
+C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
