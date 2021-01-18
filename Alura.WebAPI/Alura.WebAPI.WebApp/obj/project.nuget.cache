@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2gT5oDJDt/JHSbhfl11NyCuD6iqJMUaP6njZTz8URTArNTLiTQoFyPmvOoG3VQD3YtT33wk2fdJN1tLREyn00w==",
+  "dgSpecHash": "wlbyBffhPmJys8HKrcE7e9t+xJeDsRyvLy9hXLrWweuuMTGh4MavpfE4EW2aZdt2lJa2g5/I3siUypJ7t2MqiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\pmaeda\\Documents\\Exercicios\\Formacao-ASP.NET-Core-REST-API\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
   "expectedPackageFiles": [
@@ -156,6 +156,7 @@
     "C:\\Users\\pmaeda\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\2.1.0\\microsoft.extensions.options.configurationextensions.2.1.0.nupkg.sha512",
     "C:\\Users\\pmaeda\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
     "C:\\Users\\pmaeda\\.nuget\\packages\\microsoft.extensions.webencoders\\2.1.0\\microsoft.extensions.webencoders.2.1.0.nupkg.sha512",
+    "C:\\Users\\pmaeda\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.2.4\\microsoft.identitymodel.jsonwebtokens.5.2.4.nupkg.sha512",
     "C:\\Users\\pmaeda\\.nuget\\packages\\microsoft.identitymodel.logging\\5.2.4\\microsoft.identitymodel.logging.5.2.4.nupkg.sha512",
     "C:\\Users\\pmaeda\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.2.0\\microsoft.identitymodel.protocols.5.2.0.nupkg.sha512",
     "C:\\Users\\pmaeda\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.2.0\\microsoft.identitymodel.protocols.openidconnect.5.2.0.nupkg.sha512",
@@ -231,7 +232,7 @@
     "C:\\Users\\pmaeda\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
     "C:\\Users\\pmaeda\\.nuget\\packages\\system.globalization.calendars\\4.3.0\\system.globalization.calendars.4.3.0.nupkg.sha512",
     "C:\\Users\\pmaeda\\.nuget\\packages\\system.globalization.extensions\\4.3.0\\system.globalization.extensions.4.3.0.nupkg.sha512",
-    "C:\\Users\\pmaeda\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.2.0\\system.identitymodel.tokens.jwt.5.2.0.nupkg.sha512",
+    "C:\\Users\\pmaeda\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.2.4\\system.identitymodel.tokens.jwt.5.2.4.nupkg.sha512",
     "C:\\Users\\pmaeda\\.nuget\\packages\\system.interactive.async\\3.1.1\\system.interactive.async.3.1.1.nupkg.sha512",
     "C:\\Users\\pmaeda\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
     "C:\\Users\\pmaeda\\.nuget\\packages\\system.io.compression\\4.3.0\\system.io.compression.4.3.0.nupkg.sha512",

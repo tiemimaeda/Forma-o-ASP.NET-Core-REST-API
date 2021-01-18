@@ -64,17 +64,8 @@ namespace Alura.ListaLeitura.WebApp.Controllers
             return View(model.ToModel());
         }
 
-        [HttpGet]
-        public IActionResult DetalhesSemHTML(int id)
-        {
-            var model = RecuperaLivro(id);
-            if (model == null)
-            {
-                return NotFound();
-            }
-            return Json(model.ToModel());
-        }
 
+        [HttpPost]
         public ActionResult<LivroUpload> DetalhesJson(int id)
         {
             var model = RecuperaLivro(id);
