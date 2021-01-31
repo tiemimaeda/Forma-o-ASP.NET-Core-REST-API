@@ -1,3 +1,4 @@
+C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.deps.json
 C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.runtimeconfig.json
 C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.runtimeconfig.dev.json
@@ -18,4 +19,3 @@ C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI
 C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.dll
 C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.pdb
 C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.genruntimeconfig.cache
-C:\Users\pmaeda\Documents\Exercicios\Formacao-ASP.NET-Core-REST-API\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\appsettings.json
